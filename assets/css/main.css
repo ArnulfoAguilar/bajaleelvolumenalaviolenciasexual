@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	html, body {
-		background: #f47532;
+		background: #1c1d26;
 	}
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3090,7 +3090,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
-			background: rgba(23, 24, 32, 0.95);
+			background: rgba(237, 109, 36, 0.90);
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
@@ -3154,7 +3154,7 @@ input, select, textarea {
 		}
 
 		.spotlight.style3 .content {
-			border-color: #07a08a;
+			border-color: #f47532;
 		}
 
 		.spotlight.inactive .content {
