@@ -2186,12 +2186,18 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #07a08a;
+			
 			content: '';
 			display: inline-block;
 			height: 0.2em;
 			max-width: 20em;
 			width: 75%;
+		}
+		header.major1:after {
+			background: #f47532;
+		}
+		header.major2:after {
+			background: #07a08a;
 		}
 
 	footer.major {
