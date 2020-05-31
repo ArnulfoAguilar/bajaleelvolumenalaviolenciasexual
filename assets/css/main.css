@@ -3699,7 +3699,7 @@ input, select, textarea {
 				}
 
 				.spotlight .content {
-					background-color: #1c1d26;
+					background-color: rgb(237, 109, 36);;
 					border-width: 0 !important;
 					border-top-width: 0.35em !important;
 					bottom: auto !important;
